@@ -12,7 +12,7 @@ Lembre-se que precisam ser palavras reais com 5 letras.
 <br>
 - Letra verde: Sua posição e letra estão ambas corretas.
 - Letra Amarela: Você acertou a letra, porém está na posição errada.
-- Letra Cinza: A letra está errada! Não coloque ela mais em nenhuma tentativa.
+- Letra Cinza/Roxa: A letra está errada! Não coloque ela mais em nenhuma tentativa.
 <div display="flex" align="center">
   <img src="https://i.imgur.com/R9mwZRd.png" />
 </div>
